@@ -12,15 +12,15 @@
     "homepage": "https://github.com/victoryoalli/laravel-code-generator",
     "require": {
         "php": "^8.0",
-        "illuminate/console": "^8.0|^9.0|^10.0",
-        "illuminate/filesystem": "^8.0|^9.0|^10.0",
-        "illuminate/support": "^8.0|^9.0|^10.0",
-        "doctrine/dbal": "^2.9|^3.0",
-        "spatie/laravel-ray": "^1.18"
+        "illuminate/console": "^8.0|^9.0|^10.0|^11.0",
+        "illuminate/filesystem": "^8.0|^9.0|^10.0|^11.0",
+        "illuminate/support": "^8.0|^9.0|^10.0|^11.0",
+        "doctrine/dbal": "^2.9|^3.0|^4.0",
+        "spatie/laravel-ray": "^1.18|^3.31.1"
     },
     "require-dev": {
-        "orchestra/testbench": "^7.0|^8.0",
-        "victoryoalli/laravel-string-macros": "^1.0"
+        "orchestra/testbench": "^7.0|^8.0|^9.0",
+        "victoryoalli/laravel-string-macros": "^1.0.1"
     },
     "autoload": {
         "files": [
